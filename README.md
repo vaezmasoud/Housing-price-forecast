@@ -3,7 +3,7 @@ In this project, we want to predict housing prices with the help of data. This d
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-##Features (Columns)
+## Features (Columns)
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 
